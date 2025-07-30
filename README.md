@@ -8,8 +8,8 @@ Telco customer churn and financial analysis
 - **Dataset:** Telco Customer Churn (7,043 customers)
 
 ## 🔍 Key Analysis
-1. **Overall Churn & LTV Segmentation**  
-   - Retained vs. Churned comparison  
+1. [**Overall Churn & LTV Segmentation**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Cust%20churn%20dashboard.png)  
+   - Retained vs. Churned comparison across categories
 2. [**Churn Drivers**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/ServiceCorrelation.png)  
    - Correlation analysis on Contract, Tenure and Service
 3. **Upsell Targets**  

@@ -19,7 +19,7 @@ Telco customer churn and financial analysis
 
 ## 📈 Screenshots
 ![Dashboard](Cust churn dashboard.png)
-![Correlation Table](analysis/correlation_table.png)
+![Correlation Table](ServiceCorrelation.png)
 
 ## 📂 Files
 - `/data/TelcoCustomerChurn_Encoded.xlsx` – encoded and cleaned dataset  

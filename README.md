@@ -18,7 +18,7 @@ Telco customer churn and financial analysis
    - Line chart of MonthlyCharges over tenure for Churned vs. Retained
 
 ## 📈 Screenshots
-![Dashboard](dashboard/Telco_Churn_Dashboard.png)
+![Dashboard](Cust churn dashboard.png)
 ![Correlation Table](analysis/correlation_table.png)
 
 ## 📂 Files

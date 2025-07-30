@@ -10,8 +10,8 @@ Telco customer churn and financial analysis
 ## 🔍 Key Analysis
 1. **Overall Churn & LTV Segmentation**  
    - Retained vs. Churned comparison  
-2. **Churn Drivers**  
-   - Correlation & pivot analysis on Contract, Tenure and Service
+2. [**Churn Drivers**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/ServiceCorrelation.png)  
+   - Correlation analysis on Contract, Tenure and Service
 3. **Upsell Targets**  
    - Identified Month‑to‑Month customers with high tenure & low revenue  
 4. **Revenue Trends by Churn Status**  

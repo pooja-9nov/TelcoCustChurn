@@ -14,7 +14,7 @@ Telco customer churn and financial analysis
    - Correlation analysis on Contract, Tenure and Service
 3. [**Upsell Targets**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Upsell%20Target.png)
    - Identified Month‑to‑Month customers with high tenure & low revenue  
-4. **Revenue Trends by Churn Status**  
+4. [**Revenue Trends by Churn Status**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Revenue%20trend%20by%20Churn.png)
    - Line chart of MonthlyCharges over tenure for Churned vs. Retained
 
 ## 📂 Files

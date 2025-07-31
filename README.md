@@ -19,15 +19,6 @@ Telco customer churn and financial analysis
    - Line chart of MonthlyCharges over tenure for Churned vs. Retained
 
 ## 📂 Files
-- `/data/TelcoCustomerChurn_Encoded.xlsx` – encoded and cleaned dataset  
-- `/dashboard` – Excel dashboard exports  
-- `/analysis` – supporting pivot table images
-
-## 👩‍💻 How to Reproduce
-1. Open the Excel file in `/data`.  
-2. Use Pivot Tables (tenure vs. churn, contract vs. churn).  
-3. Create charts as shown in the dashboard.
+- [Cleaned dataset]
 
 ---
-
-🔗 **View live version:** (if you host the dashboard image on GitHub Pages)

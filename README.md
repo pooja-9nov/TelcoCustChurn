@@ -7,18 +7,33 @@ Telco customer churn and financial analysis
 - **Objective:** Analyze customer churn, LTV, and revenue trends to inform retention and upsell strategies.
 - **Dataset:** Telco Customer Churn (7,043 customers)
 
-## 🔍 Key Analysis
-1. [**Overall Churn & LTV Segmentation**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Cust%20churn%20dashboard.png)  
-   - Retained vs. Churned comparison across categories
-   - Click here for [Key insights](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Key%20Churn%20and%20Revenue%20Insights.png)
-2. [**Churn Drivers**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/ServiceCorrelation.png)  
-   - Correlation analysis on Contract, Tenure and Service
-3. [**Upsell Targets**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Upsell%20Target.png)
-   - Identified Month‑to‑Month customers with high tenure & low revenue  
-4. [**Revenue Trends by Churn Status**](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/Revenue%20trend%20by%20Churn.png)
-   - Line chart of MonthlyCharges over tenure for Churned vs. Retained
+## 🔍 [Key Analysis](analysis/Key_Insights.png)
+1. **Overall Churn & LTV Segmentation**
+   - Retained cust have 66% higher avg LTV than churned.[Link here](analysis/Churn_percentages.png)
+2. **Churn Drivers**
+   - Month-to-Month contract and low tenure have high churn risks.[Link here](analysis/Correlation_table.png)
+3. **Upsell Targets**
+   - 400+ long-tenure Month-to-month customers with low spend identified.[Link here](analysis/Upsell_Target.png)
+4. **Revenue Trends by Churn Status**
+   - Retained revenue grows steadily with tenure; churned revenue peaks early.[Link here](analysis/churn_by_tenure.png)
+---
+## 📷 Screenshots
 
-## 📂 Files
-- [Cleaned dataset](https://github.com/pooja-9nov/TelcoCustChurn/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.xlsx)
+### Dashboard
+![Dashboard](dashboard/Cust_churn_dashboard.png)
+
+### Correlation with Churn
+![Correlation](analysis/Correlation_table.png)
+
+### Churn by Tenure
+![Tenure Graph](analysis/churn_by_tenure.png)
+
+---
+
+## 📁 Files
+- `/data/WA_Fn-UseC_-Telco-Customer-Churn-Dataset.xlsx` – Cleaned & encoded data
+- `/dashboard/Cust_churn_dashboard.png` – Excel dashboard
+- `/analysis/` – Key analysis
+- `/data/Excel_pivots_analysis.xlsx` - Supporting pivot tables
 
 ---
